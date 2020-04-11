@@ -1,0 +1,1691 @@
+{
+    "lens_id": "",
+    "document_id": "qL-t5k24dyGIc9VuNkc-",
+    "original_document_id": "qL-t5k24dyGIc9VuNkc-",
+    "version": "23",
+    "lastChanged": "1586635288825",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "HideWhenRecording"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Beauty"
+                    ],
+                    [
+                        "ThresholdController"
+                    ],
+                    [
+                        "ThresholdEffect"
+                    ],
+                    [
+                        "UI"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Hints"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Hints",
+                        "tap_hint"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Materials"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Materials",
+                        "Popup Fill"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIButton"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIColorPicker"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIPanel"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIPopup"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIToggle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "colorPicker_popup"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "colorpicker_background"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "colorpicker_gradient"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Toggle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Toggle",
+                        "toggle_background"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "circle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "circle_shadow"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "half_circle"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1586622477823190:19730",
+                    "1586622479116616:22124",
+                    "1586622479770733:23084"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "1586621552821348:1890",
+            "active_graph_pass": "0"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1586621552821348:1890",
+                    "name": "Files\/File3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1586621552934132:1940",
+                    "name": "Files\/File5.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1586622476462673:19398",
+                    "name": "Files\/File7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1586622476629732:19410",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1586622476883755:19422",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1586622476949187:19434",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1586622477034984:19446",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1586622477116612:19458",
+                    "name": "Files\/File13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1586622477196142:19470",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1586622477552646:19551",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1586622477582936:19563",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1586622477599026:19575",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1586622477634473:19587",
+                    "name": "Files\/File22.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1586622477660153:19610",
+                    "name": "Files\/File24.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1586622477679239:19633",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1586622477702701:19645",
+                    "name": "Files\/File28.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1586622477742530:19692",
+                    "name": "Files\/File30",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1586624560959683:75531",
+                    "name": "Files\/File31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1586635270273077:8351",
+                    "name": "Files\/File32.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1586621632803469:2116",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586621632871948:2250",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622479118392:22128",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622479238390:22314",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622479335599:22582",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622479393890:22716",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "true"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622479519741:22900",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622480410341:23644",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "true",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622480475596:23778",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586622480768615:24160",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1586621632784910:2049",
+                "4": "1586621632802534:2114",
+                "5": "1586621632871772:2249",
+                "6": "1586622477823190:19730",
+                "7": "1586622477828130:19732",
+                "8": "1586622479113322:22118",
+                "9": "1586622479114361:22120",
+                "10": "1586622479115471:22122",
+                "11": "1586622479116616:22124",
+                "12": "1586622479117777:22126",
+                "13": "1586622479237811:22312"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.lsmat"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.js"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.js"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.js"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "3",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures\/Beauty.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "ThresholdEffect.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "UI"
+                    },
+                    {
+                        "k": "7",
+                        "v": "UI\/Resources"
+                    },
+                    {
+                        "k": "8",
+                        "v": "UI\/Resources\/Scripts"
+                    },
+                    {
+                        "k": "9",
+                        "v": "UI\/Resources\/Scripts\/UIButton.js"
+                    },
+                    {
+                        "k": "10",
+                        "v": "UI\/Resources\/Textures"
+                    },
+                    {
+                        "k": "11",
+                        "v": "UI\/Resources\/Textures\/Base.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "UI\/Resources\/Scripts\/UIToggle.js"
+                    },
+                    {
+                        "k": "13",
+                        "v": "UI\/Resources\/Scripts\/UIPanel.js"
+                    },
+                    {
+                        "k": "14",
+                        "v": "UI\/Resources\/Scripts\/UIColorPicker.js"
+                    },
+                    {
+                        "k": "15",
+                        "v": "UI\/Resources\/Scripts\/UIPopup.js"
+                    },
+                    {
+                        "k": "16",
+                        "v": "UI\/Resources\/Materials"
+                    },
+                    {
+                        "k": "17",
+                        "v": "UI\/Resources\/Materials\/Popup Fill.lsmat"
+                    },
+                    {
+                        "k": "18",
+                        "v": "UI\/Resources\/Textures\/circle_shadow.png"
+                    },
+                    {
+                        "k": "19",
+                        "v": "UI\/Resources\/Textures\/circle.png"
+                    },
+                    {
+                        "k": "20",
+                        "v": "UI\/Resources\/Textures\/Toggle"
+                    },
+                    {
+                        "k": "21",
+                        "v": "UI\/Resources\/Textures\/Toggle\/toggle_background.png"
+                    },
+                    {
+                        "k": "22",
+                        "v": "UI\/Resources\/Textures\/Color Picker"
+                    },
+                    {
+                        "k": "23",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/colorpicker_background.png"
+                    },
+                    {
+                        "k": "24",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/colorPicker_popup.png"
+                    },
+                    {
+                        "k": "25",
+                        "v": "UI\/Resources\/Textures\/half_circle.png"
+                    },
+                    {
+                        "k": "26",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/colorpicker_gradient.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "UI\/Resources\/Hints"
+                    },
+                    {
+                        "k": "28",
+                        "v": "UI\/Resources\/Hints\/tap_hint"
+                    },
+                    {
+                        "k": "29",
+                        "v": "ThresholdController.js"
+                    },
+                    {
+                        "k": "30",
+                        "v": "HideWhenRecording.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "4",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "5",
+                        "v": "df993b97e6f703d62bd7fc0e7ffd998d"
+                    },
+                    {
+                        "k": "9",
+                        "v": "49262ab39851897eb66b4e8914dc8464"
+                    },
+                    {
+                        "k": "11",
+                        "v": "203b97f7dd88fd357a12944549da2218"
+                    },
+                    {
+                        "k": "12",
+                        "v": "7b41fcf3caa9e751e88df9cebee8ba5d"
+                    },
+                    {
+                        "k": "13",
+                        "v": "ad2e709405727972814cb0fa71c0cf70"
+                    },
+                    {
+                        "k": "14",
+                        "v": "c5301e95e2569bb125f5178089a56502"
+                    },
+                    {
+                        "k": "15",
+                        "v": "878423dfe073e706c01014e187b5819e"
+                    },
+                    {
+                        "k": "17",
+                        "v": "5441659176daf629c03a3c90a6b0ab53"
+                    },
+                    {
+                        "k": "18",
+                        "v": "39a1279a53f2a412d60ea8d896c8d3fd"
+                    },
+                    {
+                        "k": "19",
+                        "v": "4ac55079553f517e55a18c99b654e2f0"
+                    },
+                    {
+                        "k": "21",
+                        "v": "8e662aa027fb1c78d122667f548732b4"
+                    },
+                    {
+                        "k": "23",
+                        "v": "f4b5ecde4d87e0ee210509ceef38694e"
+                    },
+                    {
+                        "k": "24",
+                        "v": "298e5d807a238ffd57c71ae526b49326"
+                    },
+                    {
+                        "k": "25",
+                        "v": "d006e22d0d699ce8f3bb5ba779305402"
+                    },
+                    {
+                        "k": "26",
+                        "v": "e0deffb5e4593d0dbd07620325c4a314"
+                    },
+                    {
+                        "k": "28",
+                        "v": "28b457fc9c4df84419a1526eb2780037"
+                    },
+                    {
+                        "k": "29",
+                        "v": "1ef1eb56e984618da59bd97ca1098029"
+                    },
+                    {
+                        "k": "30",
+                        "v": "a49529e67d783892c52900ba81c583ee"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-04-11T16:01:10",
+                        "name": "Public",
+                        "hash": "8988d2ba2039ff10bcc1e1fc1d1f6c79",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-11T12:27:56",
+                                "name": "UI",
+                                "hash": "ed1dd7d929c14482a7a601c18564c32b",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-04-11T12:27:57",
+                                        "name": "Resources",
+                                        "hash": "c24e05507201f3e4ed7e0a85fd33aa0c",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-04-11T12:30:34",
+                                                "name": "Textures",
+                                                "hash": "d221da7770ae4e7270b98d74c7b87ea0",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "circle.png",
+                                                        "hash": "4ac55079553f517e55a18c99b654e2f0",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "half_circle.png",
+                                                        "hash": "d006e22d0d699ce8f3bb5ba779305402",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-04-11T12:57:42",
+                                                        "name": "Color Picker",
+                                                        "hash": "c1a47eca84053219ac71a64b53dd9451",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:56",
+                                                                "name": "colorPicker_popup.png",
+                                                                "hash": "298e5d807a238ffd57c71ae526b49326",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:57:30",
+                                                                "name": "colorpicker_gradient.png",
+                                                                "hash": "e0deffb5e4593d0dbd07620325c4a314",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:56",
+                                                                "name": "colorpicker_background.png",
+                                                                "hash": "f4b5ecde4d87e0ee210509ceef38694e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:57",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-04-11T12:27:57",
+                                                        "name": "Toggle",
+                                                        "hash": "40f1046376b642602993181a5723b8d1",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:56",
+                                                                "name": "toggle_background.png",
+                                                                "hash": "8e662aa027fb1c78d122667f548732b4",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:57",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "Base.png",
+                                                        "hash": "203b97f7dd88fd357a12944549da2218",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "circle_shadow.png",
+                                                        "hash": "39a1279a53f2a412d60ea8d896c8d3fd",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-04-11T12:28:01",
+                                                "name": "Materials",
+                                                "hash": "2dedf4f36a73156662eb5e9e1b55f4b7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:28:01",
+                                                        "name": "Popup Fill.lsmat",
+                                                        "hash": "5441659176daf629c03a3c90a6b0ab53",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-04-11T12:27:57",
+                                                "name": "Scripts",
+                                                "hash": "929fd7be2612522becd296a6f6cac8e6",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "UIColorPicker.js",
+                                                        "hash": "c5301e95e2569bb125f5178089a56502",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "UIPopup.js",
+                                                        "hash": "878423dfe073e706c01014e187b5819e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "UIButton.js",
+                                                        "hash": "49262ab39851897eb66b4e8914dc8464",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "UIToggle.js",
+                                                        "hash": "7b41fcf3caa9e751e88df9cebee8ba5d",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "UIPanel.js",
+                                                        "hash": "ad2e709405727972814cb0fa71c0cf70",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-04-11T12:27:57",
+                                                "name": "Hints",
+                                                "hash": "a3fe08880eee800d31c8c9c7eae7adeb",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-04-11T12:27:57",
+                                                        "name": "tap_hint",
+                                                        "hash": "28b457fc9c4df84419a1526eb2780037",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:56",
+                                                                "name": "atlas_0.png",
+                                                                "hash": "e06c7dd93751f21a3d286d0fe31b51aa",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-04-11T12:27:56",
+                                                                "name": "animation.t3d",
+                                                                "hash": "bdfd2bbfa83138d6dd5c7c6b5c433ab2",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-04-11T12:27:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-04-11T12:27:56",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-11T12:27:56",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-11T12:21:38",
+                                "name": "Textures",
+                                "hash": "7fd79ae1b8500bffe2c72e5e9516626b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-11T12:12:32",
+                                        "name": "Beauty.png",
+                                        "hash": "a276acaed7d65e4c1b56181771677a77",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-11T12:12:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:30:51",
+                                "name": "HideWhenRecording.js",
+                                "hash": "a49529e67d783892c52900ba81c583ee",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-11T13:44:08",
+                                "name": "ThresholdController.js",
+                                "hash": "1ef1eb56e984618da59bd97ca1098029",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-11T15:59:31",
+                                "name": "ThresholdEffect.lsmat",
+                                "hash": "59e3e7bda2041f2a2614e915c258a562",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:47",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "28"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Beauty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1586621552934132:1940",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "4",
+                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-KzytJu\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ThresholdEffect",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1586621552821348:1890",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "UI",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "6",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Resources",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "UIButton",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "12",
+                                                "dependency": "0",
+                                                "uid": "1586622476462673:19398",
+                                                "fileId": "7",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "9",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIToggle",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "14",
+                                                "dependency": "0",
+                                                "uid": "1586622476883755:19422",
+                                                "fileId": "10",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "12",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIPanel",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "uid": "1586622476949187:19434",
+                                                "fileId": "11",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "13",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIColorPicker",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "uid": "1586622477034984:19446",
+                                                "fileId": "12",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "14",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIPopup",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "17",
+                                                "dependency": "0",
+                                                "uid": "1586622477116612:19458",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "15",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "13",
+                                                "dependency": "0",
+                                                "uid": "1586622476629732:19410",
+                                                "fileId": "8",
+                                                "originalId": "9",
+                                                "publicId": "11",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "circle_shadow",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "uid": "1586622477552646:19551",
+                                                "fileId": "16",
+                                                "originalId": "17",
+                                                "publicId": "18",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "circle",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "uid": "1586622477582936:19563",
+                                                "fileId": "18",
+                                                "originalId": "19",
+                                                "publicId": "19",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Toggle",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "20",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "toggle_background",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "21",
+                                                        "dependency": "0",
+                                                        "uid": "1586622477599026:19575",
+                                                        "fileId": "20",
+                                                        "originalId": "21",
+                                                        "publicId": "21",
+                                                        "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Color Picker",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "colorpicker_background",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "22",
+                                                        "dependency": "0",
+                                                        "uid": "1586622477634473:19587",
+                                                        "fileId": "22",
+                                                        "originalId": "23",
+                                                        "publicId": "23",
+                                                        "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "colorPicker_popup",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "23",
+                                                        "dependency": "0",
+                                                        "uid": "1586622477660153:19610",
+                                                        "fileId": "24",
+                                                        "originalId": "25",
+                                                        "publicId": "24",
+                                                        "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "colorpicker_gradient",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "25",
+                                                        "dependency": "0",
+                                                        "uid": "1586622477702701:19645",
+                                                        "fileId": "28",
+                                                        "originalId": "29",
+                                                        "publicId": "26",
+                                                        "source": "\/Users\/pixelfiend\/Desktop\/snap-threshold\/Public\/UI\/Resources\/Textures\/Color Picker\/colorpicker_gradient.png",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "half_circle",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "24",
+                                                "dependency": "0",
+                                                "uid": "1586622477679239:19633",
+                                                "fileId": "26",
+                                                "originalId": "27",
+                                                "publicId": "25",
+                                                "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Popup Fill",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "uid": "1586622477196142:19470",
+                                                "fileId": "14",
+                                                "originalId": "15",
+                                                "publicId": "17",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hints",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "tap_hint",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "26",
+                                                "dependency": "0",
+                                                "uid": "1586622477742530:19692",
+                                                "fileId": "30",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "28",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ThresholdController",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1586624560959683:75531",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29",
+                        "source": "\/var\/folders\/7v\/j77wwqm96ps_pc3lrp09yp1m0000gn\/T\/Lens Studio-DJIIKe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "HideWhenRecording",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1586635270273077:8351",
+                        "fileId": "32",
+                        "originalId": "18446744073709551615",
+                        "publicId": "30",
+                        "source": "\/Users\/pixelfiend\/Desktop\/LensStudio\/Fullscreen\/Public\/Helpers\/HideWhenRecording.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1586622477823190:19730"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
