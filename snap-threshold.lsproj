@@ -1,12 +1,12 @@
 {
-    "lens_id": "",
+    "lens_id": "d2147302-5eb2-433b-b3f8-7754ff3552a7",
     "document_id": "qL-t5k24dyGIc9VuNkc-",
     "original_document_id": "qL-t5k24dyGIc9VuNkc-",
     "version": "23",
-    "lastChanged": "1586635288825",
+    "lastChanged": "1586708308795",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
+    "videoPreviewUpdateTime": "2020-04-11T20:20:53.914Z",
     "isReadOnly": "false",
     "isAutoSaved": "false",
     "studioVersion": {
@@ -183,9 +183,13 @@
             ]
         },
         "MetaInfoUIComponent": {
+            "icon_hash": "6a7cb6bf467bc3420b44b1eeff35f14e",
+            "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
-            "hints": "",
-            "lens": "Untitled",
+            "hints": [
+                ""
+            ],
+            "lens": "Threshold",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -429,12 +433,12 @@
                             "v": {
                                 "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "true",
-                                    "fixHeight": "true",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "true",
+                                    "attachTop": "true"
                                 }
                             }
                         },
@@ -852,7 +856,7 @@
                     },
                     {
                         "k": "5",
-                        "v": "df993b97e6f703d62bd7fc0e7ffd998d"
+                        "v": "13b69dc8bab1d1019c8f4a9adfaedd02"
                     },
                     {
                         "k": "9",
@@ -926,9 +930,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-11T16:01:10",
+                        "lastModified": "2020-04-12T12:09:14",
                         "name": "Public",
-                        "hash": "8988d2ba2039ff10bcc1e1fc1d1f6c79",
+                        "hash": "afe97689105047a2849d27c6dabaac6f",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1208,9 +1212,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-11T15:59:31",
+                                "lastModified": "2020-04-12T12:09:14",
                                 "name": "ThresholdEffect.lsmat",
-                                "hash": "59e3e7bda2041f2a2614e915c258a562",
+                                "hash": "c444b5dbecc640643baab0666c800f3e",
                                 "children": ""
                             },
                             {
@@ -1654,7 +1658,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1586622477823190:19730"
+                    "1586621632871772:2249"
                 ]
             }
         },
